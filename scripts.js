@@ -12,7 +12,7 @@ downloadBtn.addEventListener('click', () => {
 //   alert('Analyzing...');
 
   setTimeout(() => {
-    window.location.href = './downloads/VideoGrabber.exe';
+    window.location.href = 'https://github.com/developernew12/videograbber/releases/download/v1.0.0/VideoGrabber.exe';
   }, 500);
 });
 
